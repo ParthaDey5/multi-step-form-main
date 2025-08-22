@@ -71,7 +71,7 @@ html {
     @apply  tablet:!rounded-[0.3dvw] !rounded-[1dvw]
   }
   button {
-    @apply tablet:w-[8.2dvw] w-[25dvw] tablet:h-[3dvw] h-[9.5dvw] cursor-pointer text-center align-middle text-neutral-white bg-primary-blue950 tablet:rounded-[0.5dvw] rounded-[1.5dvw] tablet:tracking-wider tracking-[0.15dvw] text-shadow-2xs
+    @apply tablet:w-[8.2dvw] w-[25dvw] tablet:h-[3dvw] h-[9.5dvw] cursor-pointer text-center align-middle text-neutral-white bg-primary-blue950 font-medium tablet:rounded-[0.5dvw] rounded-[1.5dvw] tablet:tracking-wider tracking-[0.15dvw] text-shadow-2xs
   }
   
   ::placeholder {
